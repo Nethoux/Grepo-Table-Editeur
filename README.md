@@ -1,5 +1,5 @@
 Editeur de tableau BBCODE pour Grepolis
--> "Appuyer sur ALT+T ou le bouton "Tableau BBCODE" quand tu édites un tableau pour ouvrir l'éditeur
+-> Appuyer sur ALT+T ou le bouton "Tableau BBCODE" quand tu édites un tableau pour ouvrir l'éditeur
 
 Copier/coller possible depuis Sheets/Excel
 
